@@ -37,9 +37,8 @@ write(out,block,nread);
 exit(0);}
 ```
 ## OUTPUT
-```
--rwxr-xr-x    1 root     root         18348 Apr 18 16:02 file.o
-```
+![image](https://github.com/Naveen1825/Linux-File-IO-Systems-locking/assets/138969868/d7ea261d-2f64-4b50-a3ae-654961a27823)
+
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -86,9 +85,8 @@ return 0;
 
 
 ## OUTPUT
-```
--rwxr-xr-x    1 root     root         18376 Apr 18 16:02 text.o
-```
+![image](https://github.com/Naveen1825/Linux-File-IO-Systems-locking/assets/138969868/45ac55de-3f10-4bdf-ba8c-463de08b6c4d)
+`
 
 
 
